@@ -1,0 +1,3 @@
+96.582: Average Number of Turns
+101: Max Turns
+66: Min Turns
